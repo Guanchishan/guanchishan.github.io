@@ -37,11 +37,11 @@
     
       <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
     
-      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
+      <category term="cmn" scheme="https://guanchishan.github.io/tags/cmn/"/>
     
       <category term="福州" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%B7%9E/"/>
     
-      <category term="cmn" scheme="https://guanchishan.github.io/tags/cmn/"/>
+      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
     
   </entry>
   
@@ -115,13 +115,17 @@
     <published>2019-05-30T01:52:08.000Z</published>
     <updated>2019-05-29T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p>囫圇日無食啜</p><p>大半夜突然塞裏只価乇</p><p>（吓也，只下將做吓）</p><a id="more"></a><p>消化藥乞我抾遘俤所喇</p><p>反頂來反頂去</p><p>倒眠床逢乇都賣做</p><p>仱死去</p><p><strong>Buáng-màng Săng-găng Mò̤ Dâi Có̤</strong></p><p>Gó̤-lòng gĕ̤ng mò̤ siăh-chióh</p><p>Duâi-buáng-iâ dók-iòng sék-diē cī sâ̤ nó̤h</p><p>(À iá, cī-â ciŏng có̤ à)</p><p>Siŭ-huá-iŏk ké̤ṳk nguāi kĕ̤ gáu diê-sē̤ là</p><p>Bè-lēng lì bè-lēng kó̤</p><p>Dō̤ mìng-chòng hùng-nó̤h dŭ mâ̤ có̤</p><p>DĀNG SĪ KÓ̤</p>]]></content>
+    <content type="html"><![CDATA[<p>囫圇日無食啜</p><p>大半夜突然塞裏只価乇</p><p>（吓也，只下將做吓）</p><p>消化藥乞我抾遘俤所喇</p><p>反頂來反頂去</p><p>倒眠床逢乇都賣做</p><p>仱死去</p><a id="more"></a><hr><p><strong>Buáng-màng Săng-găng Mò̤ Dâi Có̤</strong></p><p>Gó̤-lòng gĕ̤ng mò̤ siăh-chióh</p><p>Duâi-buáng-iâ dók-iòng sék-diē cī sâ̤ nó̤h</p><p>(À iá, cī-â ciŏng có̤ à)</p><p>Siŭ-huá-iŏk ké̤ṳk nguāi kĕ̤ gáu diê-sē̤ là</p><p>Bè-lēng lì bè-lēng kó̤</p><p>Dō̤ mìng-chòng hùng-nó̤h dŭ mâ̤ có̤</p><p>DĀNG SĪ KÓ̤</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;囫圇日無食啜&lt;/p&gt;
 &lt;p&gt;大半夜突然塞裏只価乇&lt;/p&gt;
 &lt;p&gt;（吓也，只下將做吓）&lt;/p&gt;
+&lt;p&gt;消化藥乞我抾遘俤所喇&lt;/p&gt;
+&lt;p&gt;反頂來反頂去&lt;/p&gt;
+&lt;p&gt;倒眠床逢乇都賣做&lt;/p&gt;
+&lt;p&gt;仱死去&lt;/p&gt;
     
     </summary>
     
@@ -164,9 +168,9 @@
       <category term="影評" scheme="https://guanchishan.github.io/categories/%E8%97%9D%E6%96%87/%E5%BD%B1%E8%A9%95/"/>
     
     
-      <category term="動畫" scheme="https://guanchishan.github.io/tags/%E5%8B%95%E7%95%AB/"/>
-    
       <category term="cmn" scheme="https://guanchishan.github.io/tags/cmn/"/>
+    
+      <category term="動畫" scheme="https://guanchishan.github.io/tags/%E5%8B%95%E7%95%AB/"/>
     
   </entry>
   
@@ -277,9 +281,9 @@
     
       <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
     
-      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
-    
       <category term="福州" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%B7%9E/"/>
+    
+      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
     
   </entry>
   
@@ -578,9 +582,9 @@
     
       <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
     
-      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
-    
       <category term="福州" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%B7%9E/"/>
+    
+      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
     
       <category term="lzh" scheme="https://guanchishan.github.io/tags/lzh/"/>
     
