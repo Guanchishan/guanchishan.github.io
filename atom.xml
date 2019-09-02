@@ -50,20 +50,14 @@
     <link href="https://guanchishan.github.io/cmn/2019-08-18_Hexo+NexT%E5%BB%BA%E7%AB%99%E9%9B%A3%E9%97%9C%E9%9A%A8%E9%8C%84/"/>
     <id>https://guanchishan.github.io/cmn/2019-08-18_Hexo+NexT建站難關隨錄/</id>
     <published>2019-08-18T14:26:00.000Z</published>
-    <updated>2019-08-30T17:48:00.405Z</updated>
+    <updated>2019-08-28T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="小引"><a class="header-anchor" href="#小引">¶</a>小引</h2><p>想擁有一個徹底屬於自己的博客，已經很久了。</p><p>就如把大象塞進冰箱一般，做一個博客，凡分三步：</p><ol><li>覓址</li><li>搭建</li><li>運營</li></ol><a id="more"></a><h2 id="覓址"><a class="header-anchor" href="#覓址">¶</a>覓址</h2><h2 id="搭建"><a class="header-anchor" href="#搭建">¶</a>搭建</h2><p><img src="https://ae01.alicdn.com/kf/H586ebdd66b9549c89f444ffe1ae05e9bh.png" alt="我的博客在「理論上」誕生的一瞬" title="我的博客在「理論上」誕生的一瞬"></p><p><img src="https://ae01.alicdn.com/kf/H69a657e2b1194b2f83ea36a9d74b2113q.jpg" alt="居然一片亂碼" title="居然一片亂碼"></p><p>準確來講，這亦不是我的頭一篇博文。衹不過發佈於幾乎完全屬於自己的博客的，這是頭一篇。</p><h2 id="運營"><a class="header-anchor" href="#運營">¶</a>運營</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="小引"><a class="header-anchor" href="#小引">§</a>小引</h2><p>想擁有一個徹底屬於自己的博客，已經很久了。前天，<a href="https://guanchishan.github.io/about">做了一場很長很長的夢後</a>，我開始著手建設之。</p><a id="more"></a><p>我猶能記取，最後一回正經的編程，已是初中的事情了。當時電腦課有教VB，我上課學滿認真，落堂自家還繼續琢磨；復在百度VB吧圍觀大神，斗膽提問並得到回答：可以說充分地體驗了編程的樂趣。期末的作品，亦蒙先生表揚，說我「既達成了目標，還有意識設計了圖形介面」云。然<ruby>而<rp>（</rp><rt>é</rt><rp>）</rp></ruby>，這份編程愛並未延續落去。特別進了高二，我<a href="https://guanchishan.github.io/lzh/2015-07-25_%E6%B1%89%E4%BF%B3%E4%BD%9C%E5%93%81/#%E5%88%86%E7%A7%91%E8%AE%B0%E6%84%9F">躊躇滿志地選了文科</a>，也接受著能力偏差的心理暗示。故此從我指尖流出的代碼，邇來大抵是些臨時搜索、複製黏貼，以解決突發的疑難雜症者。「編程」之於我，遂與日而神聖，與日而不可及了。這份複雜的情感，更從編程開始，蔓延到許多的現代信息技術。譬如講開設博客，聽起來就很：</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stacken_0c137d_9086.jpg/800px-Stacken_0c137d_9086.jpg" alt="這是一張一名工程師對著幾臺服務器乾瞪眼的相片。我想用它體現出在我心目中開設博客有多麼複雜。" title="Janwikifoto, CC BY-SA 3.0, 2.5, 2.0, 1.0, GNU Free Documentation License 1.2"></p><p>所以爲了建出一個博客，像我這般苦手之輩，最需邁過的難關是——</p><h3 id="樹立信心"><a class="header-anchor" href="#樹立信心">§</a>樹立信心</h3><p>不過，信心亦不是隨便樹的。愛樹罔樹的信心，自己都不會去相信。失卻信心的根源，在於對自己能力的不信任；而之所以不信任自己的能力，不假思索或過份地誇大困難是一個原因。我們需要消解這份大困難。</p><h3 id="分解困難"><a class="header-anchor" href="#分解困難">§</a>分解困難</h3><p>就如把大象塞進冰箱一般，做一個博客，凡分三步：</p><ol><li>覓址</li><li>搭建</li><li>運營</li></ol><p>如是，問題似乎不再那麼毫無解決的頭緒，只需按著步驟一路闖下來即可。</p><p>其實我一直都很明白，面對一項繁雜到無從下手的工作時，可以將它嵌入一些框架――思維的框架，或者說是模板――從而把大問題分解成許多許多小問題。可道理都明白，平常間就是掏不出時間去試――哪怕在草稿紙上做做清夢呢。</p><p>所以知道要做什麼遠遠不夠。我們需要尋找最本源的動力，需要問問自己——</p><p>你想要什麼？</p><h3 id="明確目標"><a class="header-anchor" href="#明確目標">§</a>明確目標</h3><p>其實，探尋自己到底想要什麼，理應排在知道要做什麼之前。衹是我本就有建一個屬於自己的網站的夢，而並不是需要實現什麼目標纔想到要去藉助博客。所以我的思想脈絡，看起來有些顛倒。爲了敘述上的便宜，我也還是將「明確目標」排在「分解困難」之後。</p><p>而近來中文互聯網各大網絡平臺「炸號」情況嚴重，是我急欲劃塊網絡自留地的主要動因。</p><p>正好前天大夢方寤，我坐到桌前，便開始規劃私家博客的藍圖。</p><p><img src="https://ae01.alicdn.com/kf/Hc2f348abb87b41c491bc6a972f4c5062G.jpg" alt title="在草稿紙上列出了痛點"></p><h2 id="覓址"><a class="header-anchor" href="#覓址">§</a>覓址</h2><h2 id="搭建"><a class="header-anchor" href="#搭建">§</a>搭建</h2><p><img src="https://ae01.alicdn.com/kf/H586ebdd66b9549c89f444ffe1ae05e9bh.png" alt="我的博客在「理論上」誕生的一瞬" title="我的博客在「理論上」誕生的一瞬"></p><p><img src="https://ae01.alicdn.com/kf/H69a657e2b1194b2f83ea36a9d74b2113q.jpg" alt="居然一片亂碼" title="居然一片亂碼"></p><p>準確來講，這亦不是我的頭一篇博文。衹不過發佈於幾乎完全屬於自己的博客的，這是頭一篇。</p><h2 id="運營"><a class="header-anchor" href="#運營">§</a>運營</h2><h3 id="網站地圖"><a class="header-anchor" href="#網站地圖">§</a>網站地圖</h3><p>網站地圖可以方便搜索引擎派出的爬蟲收錄該網站的內容。過去谷歌似乎可以代為生成網站地圖<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>，但是嘗試訪問有關設置頁面後，被告知設置頁面已升級，教我去訪問新版。<img src="https://ae01.alicdn.com/kf/H24dabb3170b4457d903904120eba0a8bO.jpg" alt title="被告知此處屬於舊版頁面，不再提供有關功能">循其指引訪問新版，又稱處理數據需要時日。似乎陷入了死循環。<img src="https://ae01.alicdn.com/kf/H3194794c12da4729835fd988bb6c417ei.jpg" alt title="不過新版對移動端友好"></p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>viggoz. <a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">hexo(3)-生成sitemap站点地图</a>. 简书. 2016-06-08 [2019-09-02]. <a href="#fnref1" class="footnote-backref">↩</a></p></li></ol></section>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;小引&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#小引&quot;&gt;¶&lt;/a&gt;小引&lt;/h2&gt;
-&lt;p&gt;想擁有一個徹底屬於自己的博客，已經很久了。&lt;/p&gt;
-&lt;p&gt;就如把大象塞進冰箱一般，做一個博客，凡分三步：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;覓址&lt;/li&gt;
-&lt;li&gt;搭建&lt;/li&gt;
-&lt;li&gt;運營&lt;/li&gt;
-&lt;/ol&gt;
+      &lt;h2 id=&quot;小引&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#小引&quot;&gt;§&lt;/a&gt;小引&lt;/h2&gt;
+&lt;p&gt;想擁有一個徹底屬於自己的博客，已經很久了。前天，&lt;a href=&quot;https://guanchishan.github.io/about&quot;&gt;做了一場很長很長的夢後&lt;/a&gt;，我開始著手建設之。&lt;/p&gt;
     
     </summary>
     
@@ -399,6 +393,40 @@
   </entry>
   
   <entry>
+    <title>春天停在枝头上</title>
+    <link href="https://guanchishan.github.io/cmn/2018-03_%E6%98%A5%E5%A4%A9%E5%81%9C%E5%9C%A8%E6%9E%9D%E5%A4%B4%E4%B8%8A/"/>
+    <id>https://guanchishan.github.io/cmn/2018-03_春天停在枝头上/</id>
+    <published>2018-03-01T00:00:00.000Z</published>
+    <updated>2018-03-01T00:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>春天停在枝头上</p><p>叽叽喳喳</p><p>待我挑起帘子望去</p><p>只剩下枝条摇晃</p><hr><p>作于二〇一八年春</p><p>案：推测为当年三月所作。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;春天停在枝头上&lt;/p&gt;
+&lt;p&gt;叽叽喳喳&lt;/p&gt;
+&lt;p&gt;待我挑起帘子望去&lt;/p&gt;
+&lt;p&gt;只剩下枝条摇晃&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;作于二〇一八年春&lt;/p&gt;
+&lt;p&gt;案：推测为当年三月所作。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="詩詞" scheme="https://guanchishan.github.io/categories/%E8%A9%A9%E8%A9%9E/"/>
+    
+    
+      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
+    
+      <category term="cmn" scheme="https://guanchishan.github.io/tags/cmn/"/>
+    
+  </entry>
+  
+  <entry>
     <title>起五更早掏書看</title>
     <link href="https://guanchishan.github.io/cdo/2017-12-11_%E8%B5%B7%E4%BA%94%E6%9B%B4%E6%97%A9%E6%8E%8F%E6%9B%B8%E7%9C%8B/"/>
     <id>https://guanchishan.github.io/cdo/2017-12-11_起五更早掏書看/</id>
@@ -536,57 +564,28 @@
   </entry>
   
   <entry>
-    <title>𣍐蜀樣標題，𣍐蜀樣立場</title>
-    <link href="https://guanchishan.github.io/cdo/2017-08-11_%F0%A3%8D%90%E8%9C%80%E6%A8%A3%E6%A8%99%E9%A1%8C%EF%BC%8C%F0%A3%8D%90%E8%9C%80%E6%A8%A3%E7%AB%8B%E5%A0%B4/"/>
-    <id>https://guanchishan.github.io/cdo/2017-08-11_𣍐蜀樣標題，𣍐蜀樣立場/</id>
-    <published>2017-08-10T16:00:00.000Z</published>
-    <updated>2017-08-10T16:00:00.000Z</updated>
+    <title>下晝晡時無道理</title>
+    <link href="https://guanchishan.github.io/cdo/2017-08-13_%E4%B8%8B%E6%99%9D%E6%99%A1%E6%99%82%E7%84%A1%E9%81%93%E7%90%86/"/>
+    <id>https://guanchishan.github.io/cdo/2017-08-13_下晝晡時無道理/</id>
+    <published>2017-08-12T16:00:00.000Z</published>
+    <updated>2018-12-13T02:40:20.000Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Mâ̤ siŏh-iông biĕu-dà̤, mâ̤ siŏh-iông lĭk-diòng</strong></p><p>最近有蜀件新聞，講澳洲國立大學計算機教授上堂其時候放了總款倛中文字樣：我無法容忍學生作弊。野価中文媒體注意遘了茲件事計，報道𣍐少。但是同樣蜀件事計，𣍐蜀樣立場，就𣍐蜀樣標題。Có̤i gê̤ṳng ô siŏh giông sĭng-ùng, gōng Ó̤-ciŭ Guók-lĭk Dâi-hŏk gié-sáung-gĭ gáu-sêu siông-dòng gì sì-hâiu bóng lāu ciŏng-uâng gì Dṳng-ùng cê-iông: nguāi mò̤-huák ṳ̀ng-ṳ̄ng hŏk-săng cáuk-bê. Iā sâ̤ Dṳng-ùng muòi-tā̤ cé̤ṳ-é gáu lāu cī giông dâi-gé, bó̤-dô̤ mâ̤ ciēu. Dáng-sê dùng-iông siŏh giông dâi-gé, mâ̤ siŏh-iông lĭk-diòng, cêu mâ̤ siŏh-iông biĕu-dà̤.</p><blockquote><p>澳洲國立大學再爆辱華醜聞 課堂上驚現中文提示「我無法容忍作弊」</p></blockquote><p>——《<a href="https://twitter.com/acnwnews/status/895827369906159616" target="_blank" rel="noopener">澳中每週新聞</a>》，蜀隻澳洲倛華人媒體<br>—<em>Ó̤-dṳ̆ng Muōi-cĭu Sĭng-ùng</em>, siŏh-ciáh Ó̤-ciŭ gì huà-ìng muòi-tā̤</p><blockquote><p>澳洲大學老師用中文警告「別作弊」中國留學生怒了</p></blockquote><p>——大陸野価媒體使倛標題<br>—Dâi-lṳ̆k iā sâ̤ muòi-tā̤ sāi gì biĕu-dà̤</p><blockquote><p>澳教師中文警示別作弊被中國留學生斥爲辱華</p></blockquote><p>——<a href="http://trad.cn.rfi.fr/%E4%B8%AD%E5%9C%8B/20170810-%E6%BE%B3%E6%95%99%E5%B8%AB%E4%B8%AD%E6%96%87%E8%AD%A6%E7%A4%BA%E5%88%A5%E4%BD%9C%E5%BC%8A%E8%A2%AB%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E6%96%A5%E7%82%BA%E8%BE%B1%E8%8F%AF?ref=tw_i" target="_blank" rel="noopener">法廣</a><br>—Huák-guōng</p><blockquote><p>澳教授用中文警告「別作弊」引發中國學生不滿</p></blockquote><p>——《<a href="http://news.ltn.com.tw/news/world/breakingnews/2158062" target="_blank" rel="noopener">自由時報</a>》<br>—<em>Cê̤ṳ-iù Sì-bó̤</em></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Â-dáu Buŏ-sì Mò̤ Dô̤-lī</strong><img src="https://ae01.alicdn.com/kf/H0cd895880d044008af8c585efc057bf0z.jpg" alt title="晡時雲 / Buŏ-sì-hùng">福州熱天，天氣就伓講道理。下晝卜出門，罔覷蜀覷外首，日頭盡像會熁裏來。遘了一層樓，開鎖匙，掏出車——仱死了——天含不蜀時蕩雨，罔蕩罔大。卜直接行，手䘼馬上濫去，驚潨蜀身，轉厝掏雨衣頌。天懸頂都是雲，覷𣍐著日頭，但是固是野熱。討著雨衣，蜀頌，汗就洩出來，嚽也無辦法。上車卜騎，水滴遘手懸頂，都𣍐仈是汗啊固是雨。無偌𣆯，雨煞去了，天固熱去，㑚是講無敢褪，就總款行了。遘尾衣裳固是濫去了。</p><a id="more"></a><p>Hók-ciŭ iĕk-tiĕng, tiĕng-ké cêu ng gōng dô̤-lī. Â-dáu buóh chók muòng, muōng ché̤ṳ-siŏh-ché̤ṳ ngiê-sāu, nĭk-tàu cêng chiông â̤ hiĕk diē-lì. Gáu lāu ék-cèng làu, kŭi sō̤-siè, dò̤ chók chiă—dāng sī lāu—tiĕng hàng-bók-siŏh-sì dâung-ṳ̄, muōng dâung muōng duâi. Buóh dĭk-ciék giàng, chiū-uōng mā-siông lâng kó̤, giăng cè̤ṳng siŏh-sĭng, diōng-chió dò̤ ṳ̄-ĭ sê̤ṳng. Tiĕng gà̤-dīng dŭ-sê hùng, ché̤ṳ mâ̤ diŏh nĭk-tàu, dáng-sê gó-sê iā iĕk. Tō̤ diŏh ṳ̄-ĭ, siŏh-sê̤ṳng, gâng cêu siék chók-lì, cuòi iâ mò̤ bâing-huák. Siông chiă buóh kiè, cūi dék gáu chiū gà̤-dēng, dŭ mâ̤-báik sê gâng ā gó-sê ṳ̄. Mò̤ nióh-òng, ṳ̄ sák kó̤-lāu, tiĕng gó iĕk kó̤, nâ-sê gōng mò̤-gāng táung, cêu ciŏng-uâng giàng lāu. Gáu-muōi ĭ-siòng gó-sê lâng kó̤-lāu.</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;strong&gt;Mâ̤ siŏh-iông biĕu-dà̤, mâ̤ siŏh-iông lĭk-diòng&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最近有蜀件新聞，講澳洲國立大學計算機教授上堂其時候放了總款倛中文字樣：我無法容忍學生作弊。野価中文媒體注意遘了茲件事計，報道𣍐少
-      
+      &lt;p&gt;&lt;strong&gt;Â-dáu Buŏ-sì Mò̤ Dô̤-lī&lt;/strong&gt;
+&lt;img src=&quot;https://ae01.alicdn.com/kf/H0cd895880d044008af8c585efc057bf0z.jpg&quot; alt title=&quot;晡時雲 / Buŏ-sì-hùng&quot;&gt;
+福州熱天，天氣就伓講道理。下晝卜出門，罔覷蜀覷外首，日頭盡像會熁裏來。遘了一層樓，開鎖匙，掏出車——仱死了——天含不蜀時蕩雨，罔蕩罔大。卜直接行，手䘼馬上濫去，驚潨蜀身，轉厝掏雨衣頌。天懸頂都是雲，覷𣍐著日頭，但是固是野熱。討著雨衣，蜀頌，汗就洩出來，嚽也無辦法。上車卜騎，水滴遘手懸頂，都𣍐仈是汗啊固是雨。無偌𣆯，雨煞去了，天固熱去，㑚是講無敢褪，就總款行了。遘尾衣裳固是濫去了。&lt;/p&gt;
     
     </summary>
     
       <category term="隨筆" scheme="https://guanchishan.github.io/categories/%E9%9A%A8%E7%AD%86/"/>
     
     
-      <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使平話講「死刑」會使𣍐？</title>
-    <link href="https://guanchishan.github.io/cdo/2017-08-10_%E4%BD%BF%E5%B9%B3%E8%A9%B1%E8%AC%9B%E3%80%8C%E6%AD%BB%E5%88%91%E3%80%8D%E6%9C%83%E4%BD%BF%F0%A3%8D%90%EF%BC%9F/"/>
-    <id>https://guanchishan.github.io/cdo/2017-08-10_使平話講「死刑」會使𣍐？/</id>
-    <published>2017-08-09T16:00:00.000Z</published>
-    <updated>2017-08-09T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Sāi Bàng-uâ gōng „sṳ̄-hìng“ â̤-sāi mâ̤?</strong></p><p>福州野価後生囝乞時行倛影片配音，比如講《機器貓》《蠻笑漫畫日和》，來宣傳福州話。伊各儂配音倛時候，都將趁字幕來看有仂囝講書語倛臺詞換成口語。我以為嚽伓著勢是因為今旦講福州話倛變少去了（寫遘嚽呢我下意識想寫「式微」），但是仈曾看福州話基督教《聖經》裏勢，也總款翻譯，譬如講「無始無終」寫成「無起頭無煞尾」，見覺雅奇怪。噲我復猜，古代福州話就𣍐正式，故此總款翻譯，福州儂會聽會意。<a id="more"></a>乍聽了蜀隻廣東倛配音組乞蜀隻日本動畫倛預告片配音，裏勢有蜀句「被判死刑」，嚽是比喻，就是講茲隻儂會死。我想廣東配音肯定會講「死刑」茲兩隻字，但是伊各儂也講會死，避去「死刑」者書面辭。廣東話有夠正式了，結果固總款翻譯？雖然著香港書面使官話白話文，但是也是使廣東話講，廣東話講書語，夫塊儂應該當會聽，留下「死刑」茲隻詞，伓損失蜀隻文藝作品「修辭」倛信息，理固宜然。但是伊各儂講了會死。唉，這翻譯倛道理真深，我固著好好探究。</p><p>Hók-ciŭ iā sâ̤ hâiu-săng-giāng ké̤ṳk sì-hèng gì īng-piéng puói-ĭng, pī-ṳ̀-gōng «Gĭ-ké-mà» «Màng-chéu Mâng-uâ Nĭk-huò», lì sŏng-diòng Hók-ciŭ-uâ. Ĭ-gáuk-nè̤ng puói-ĭng gì sì-hâiu, dŭ ciŏng téng cê-mŏk lì káng ô-nék-giāng gōng cṳ̆-ngṳ̄ gì dài-sṳ̀ uâng siàng kēu-ngṳ̄. Nguāi ī-ùi cuòi ng-diŏh-sié sê ĭng-ôi gĭng-dáng gōng Hók-ciŭ-uâ gì biéng ciēu kó̤ lāu (siā gáu cē̤-nē̤ nguāi hâ-é-sék siōng siā „sék-mì“), dáng-sê báik-cèng káng Hók-ciŭ-uâ Gĭ-dók-gáu «Séng-gĭng» diē-sié, iâ ciŏng-uâng huăng-ĭk, pī-ṳ̀-gōng „ù-sṳ̄-ù-cṳ̆ng“ siā siàng „mò̤ kī-tàu mò̤ sák-muōi“, giéng-gáe̤k iā gì-guái. Huòi nguāi bô chăi, gū-dâi Hók-ciŭ-uâ cêu mâ̤ ciáng-sék, gó-chṳ̄ ciŏng-uâng huăng-ĭk, Hók-ciŭ-nè̤ng â̤ tiăng huòi-é. Cá tiăng lāu siŏh ciáh Guōng-dĕ̤ng gì puói-ĭng-cū ké̤ṳk siŏh ciáh Nĭk-buōng dông-uâ gì ê̤ṳ-gó̤-piéng puói-ĭng, diē-sié ô siŏh guó „bê puáng sṳ̄-hìng“, cuòi sê bī-ê̤ṳ, cêu-sê gōng cī-ciáh nè̤ng â̤ sī. Nguāi siōng Guōng-dĕ̤ng puói-ĭng kēng-diâng â̤ gōng „sṳ̄-hìng“ cī lâng-ciáh cê, dáng-sê ǐ-gáuk-nè̤ng iâ gōng „â̤ sī“, biê kó̤ „sṳ̄-hìng“ ciā cṳ̆-miêng-sṳ̀. Guōng-dĕ̤ng-uâ ô-gáiu ciáng-sék lāu, giék-guō gó ciŏng-uâng huăng-ĭk? Chŭi-iòng diŏh Hiŏng-gē̤ng cṳ̆-miêng sāi Guăng-uâ Băh-uâ-ùng, dáng-sê iâ sāi Guōng-dĕ̤ng-uâ gōng, Guōng-dĕ̤ng-uâ gōng cṳ̆-ngṳ̄, hŭ-uái nè̤ng éng-găi-dŏng â̤ tiăng, làu-giâ „sṳ̄-hìng“ cī-ciáh sṳ̀, ng sōng-sék siŏh-ciáh ùng-ngiê cáuk-pīng „siŭ-sṳ̀“ gì séng-sék, lī-gó-ngì-iòng. Dáng-sê ǐ-gáuk-nè̤ng gōng lāu „â̤ sī“. Ài, ciā huăng-ĭk gì dô̤-lī cĭng chĭng, nguāi gó diŏh hō̤-hō̤ tăng-giú.</p><p>知乎懸頂有蜀隻號𡅏東南西北倛儂，使漢語拼音寫文章，伓寫漢字，讓大家審視口語共書語倛關係。趁許時候，我就反思寫福州話倛時候加上教會羅馬字版本倛必要性。但是介蔣講，我落筆固是愛寫書語，其一我兩個聲——嚽也無辦法，其一伓寫書語我也𣍐爽快。</p><p>Dĭ-hŭ gà̤-dēng ô siŏh-ciáh hô̤ lā̤ dŭng-nàng-să̤-báe̤k gì nè̤ng, sāi Háng-ngṳ̄ Pĭng-ĭng siā ùng-ciŏng, ng siā Háng-cê, niông dài-gă sīng-sê kēu-ngṳ̄ gâe̤ng cṳ̆-ngṳ̄ gì guăng-hiê. Téng hiā sì-hâiu, nguāi cêu huāng-sṳ̆ siā Hók-ciŭ-uâ gì sì-hâiu gă-siông Gáu-huôi Lò̤-mā-cê bāng-buōng gì bék-iéu-séng. Dáng-sê gái ciōng gōng, nguāi lŏk-bék gó-sê ó̤i siā cṳ̆-ngṳ̄, gì-ék nguāi lâng-gá-siăng — cuòi iâ mò̤ bâing-huák, gì-ék ng siā cṳ̆-ngṳ̄ nguāi iâ mâ̤ sōng-kuái.</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;Sāi Bàng-uâ gōng „sṳ̄-hìng“ â̤-sāi mâ̤?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;福州野価後生囝乞時行倛影片配音，比如講《機器貓》《蠻笑漫畫日和》，來宣傳福州話。伊各儂配音倛時候，都將趁字幕來看有仂囝講書語倛臺詞換成口語。我以為嚽伓著勢是因為今旦講福州話倛變少去了（寫遘嚽呢我下意識想寫「式微」），但是仈曾看福州話基督教《聖經》裏勢，也總款翻譯，譬如講「無始無終」寫成「無起頭無煞尾」，見覺雅奇怪。噲我復猜，古代福州話就𣍐正式，故此總款翻譯，福州儂會聽會意。
-    
-    </summary>
-    
-      <category term="隨筆" scheme="https://guanchishan.github.io/categories/%E9%9A%A8%E7%AD%86/"/>
-    
+      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
     
       <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
-    
-      <category term="漢語" scheme="https://guanchishan.github.io/tags/%E6%BC%A2%E8%AA%9E/"/>
-    
-      <category term="閩東語" scheme="https://guanchishan.github.io/tags/%E9%96%A9%E6%9D%B1%E8%AA%9E/"/>
-    
-      <category term="翻譯" scheme="https://guanchishan.github.io/tags/%E7%BF%BB%E8%AD%AF/"/>
     
   </entry>
   
