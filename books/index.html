@@ -804,9 +804,9 @@
     },
     algolia: {
       applicationID: '9T4XMHTKBY',
-      apiKey: '',
+      apiKey: '1a475b29a43f72f3a1c834c2708cbd84',
       indexName: 'Blog',
-      hits: {"per_page":10},
+      hits: {"per_page":20},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     }
   };
@@ -927,7 +927,7 @@
         <li class="menu-item menu-item-literary-chinese">
           <a href="/tags/lzh/" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-pen-nib"></i> <br>
+              <i class="menu-item-icon fa fa-fw fa-dove"></i> <br>
             
             文言
           </a>
@@ -947,7 +947,7 @@
         <li class="menu-item menu-item-books">
           <a href="/books" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-book-open"></i> <br>
+              <i class="menu-item-icon fa fa-fw fa-book"></i> <br>
             
             泛覽
           </a>
@@ -975,9 +975,47 @@
       
 
       
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br>
+            
+            檢索
+          </a>
+        </li>
+      
     </ul>
   
 
+  
+    <div class="site-search">
+      
+  
+  <div class="algolia-popup popup search-popup">
+    <div class="algolia-search">
+      <div class="algolia-search-input-icon">
+        <i class="fa fa-search"></i>
+      </div>
+      <div class="algolia-search-input" id="algolia-search-input"></div>
+    </div>
+
+    <div class="algolia-results">
+      <div id="algolia-stats"></div>
+      <div id="algolia-hits"></div>
+      <div id="algolia-pagination" class="algolia-pagination"></div>
+    </div>
+
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+  </div>
+
+
+
+
+    </div>
   
 </nav>
 
@@ -14461,7 +14499,7 @@ for (var i = 0; i < firstpages.length; i++) {
                 <a href="/archives/">
               
                   <span class="site-state-item-count">114</span>
-                  <span class="site-state-item-name">文章</span>
+                  <span class="site-state-item-name">文</span>
                 </a>
               </div>
             
@@ -14472,7 +14510,7 @@ for (var i = 0; i < firstpages.length; i++) {
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
                   <span class="site-state-item-count">19</span>
-                  <span class="site-state-item-name">分類</span>
+                  <span class="site-state-item-name">類</span>
                 </a>
               </div>
             
@@ -14483,7 +14521,7 @@ for (var i = 0; i < firstpages.length; i++) {
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
                   <span class="site-state-item-count">32</span>
-                  <span class="site-state-item-name">標籤</span>
+                  <span class="site-state-item-name">籤</span>
                 </a>
               </div>
             
@@ -14505,7 +14543,7 @@ for (var i = 0; i < firstpages.length; i++) {
                   <span class="links-of-author-item">
                     <a href="https://www.douban.com/people/davidzdh" target="_blank" title="DouBan">
                       
-                        <i class="fa fa-fw fa-globe-asia"></i></a>
+                        <i class="fa fa-fw fa-globe"></i></a>
                   </span>
                 
                   <span class="links-of-author-item">
@@ -14616,7 +14654,7 @@ for (var i = 0; i < firstpages.length; i++) {
 
 
 
-  <div class="theme-info">主題 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
+  <div class="theme-info">裝幀 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Pisces</a> v5.1.4</div>
 
 
 
@@ -14815,6 +14853,19 @@ for (var i = 0; i < firstpages.length; i++) {
   
 
 
+
+
+  
+  
+  
+  <link rel="stylesheet" href="/lib/algolia-instant-search/instantsearch.min.css">
+
+  
+  
+  <script src="/lib/algolia-instant-search/instantsearch.min.js"></script>
+  
+
+  <script src="/js/src/algolia-search.js?v=5.1.4"></script>
 
 
 
