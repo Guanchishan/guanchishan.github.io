@@ -18,8 +18,8 @@
   
   <entry>
     <title>颱風前夜的仙草凍</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/cd4f6af0.html"/>
+    <id>https://guanchishan.github.io/posts/cd4f6af0.html</id>
     <published>2019-08-29T15:58:55.000Z</published>
     <updated>2019-08-29T16:00:00.000Z</updated>
     
@@ -47,12 +47,12 @@
   
   <entry>
     <title>Hexo+NexT建站難關隨錄</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/e11d6ac.html"/>
+    <id>https://guanchishan.github.io/posts/e11d6ac.html</id>
     <published>2019-08-18T14:26:00.000Z</published>
     <updated>2019-08-28T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="小引"><a class="header-anchor" href="#小引">§</a>小引</h2><p>想擁有一個徹底屬於自己的博客，已經很久了。前天，<a href="https://guanchishan.github.io/about">做了一場很長很長的夢後</a>，我開始著手建設之。</p><a id="more"></a><p>我猶能記取，最後一回正經的編程，已是初中的事情了。當時電腦課有教VB，我上課學滿認真，落堂自家還繼續琢磨；復在百度VB吧圍觀大神，斗膽提問並得到回答：可以說充分地體驗了編程的樂趣。期末的作品，亦蒙先生表揚，說我「既達成了目標，還有意識設計了圖形介面」云。然<ruby>而<rp>（</rp><rt>é</rt><rp>）</rp></ruby>，這份編程愛並未延續落去。特別進了高二，我<a href="https://guanchishan.github.io/lzh-hans/2015-07-25_%E6%B1%89%E4%BF%B3%E4%BD%9C%E5%93%81/#%E5%88%86%E7%A7%91%E8%AE%B0%E6%84%9F">躊躇滿志地選了文科</a>，也接受著能力偏差的心理暗示。故此從我指尖流出的代碼，邇來大抵是些臨時搜索、複製黏貼，以解決突發的疑難雜症者。「編程」之於我，遂與日而神聖，與日而不可及了。這份複雜的情感，更從編程開始，蔓延到許多的現代信息技術。譬如講開設博客，聽起來就很：</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stacken_0c137d_9086.jpg/800px-Stacken_0c137d_9086.jpg" alt="這是一張一名工程師對著幾臺服務器乾瞪眼的相片。我想用它體現出在我心目中開設博客有多麼複雜。" title="Janwikifoto, CC BY-SA 3.0, 2.5, 2.0, 1.0, GNU Free Documentation License 1.2"></p><p>所以爲了建出一個博客，像我這般苦手之輩，最需邁過的難關是——</p><h3 id="樹立信心"><a class="header-anchor" href="#樹立信心">§</a>樹立信心</h3><p>不過，信心亦不是隨便樹的。愛樹罔樹的信心，自己都不會去相信。失卻信心的根源，在於對自己能力的不信任；而之所以不信任自己的能力，不假思索或過份地誇大困難是一個原因。這份大困難需要消解。</p><h3 id="分解困難"><a class="header-anchor" href="#分解困難">§</a>分解困難</h3><p>就如把大象塞進冰箱一般，做一個博客，凡分三步：</p><ol><li>覓址</li><li>搭建</li><li>運營</li></ol><p>如是，問題似乎不再那麼毫無解決的頭緒，只需按著步驟一路闖下來即可。</p><p>其實我一直都很明白，面對一項繁雜到無從下手的工作時，可以將它嵌入一些框架——思維的框架，或者說是模板——從而把大問題分解成許多許多小問題。可道理都明白，平常間就是掏不出時間去試——哪怕在草稿紙上做做清夢呢。</p><p>所以知道要做什麼遠遠不夠。我們需要尋找最本源的動力，需要問問自己——</p><p>你想要什麼？</p><h3 id="明確目標"><a class="header-anchor" href="#明確目標">§</a>明確目標</h3><p>其實，探尋自己到底想要什麼，理應排在知道要做什麼之前。衹是我本就有建一個屬於自己的網站的夢，而並不是需要實現什麼目標纔想到要去藉助博客。所以我的思想脈絡，看起來有些顛倒。爲了敘述上的便宜，我也還是將「明確目標」排在「分解困難」之後。</p><p>而近來中文互聯網各大網絡平臺「炸號」情況嚴重，是我急欲劃塊網絡自留地的主要動因。</p><p>正好前天大夢方寤，我坐到桌前，便開始規劃私家博客的藍圖。</p><p><img src="https://ae01.alicdn.com/kf/Hc2f348abb87b41c491bc6a972f4c5062G.jpg" alt title="在草稿紙上列出了痛點"></p><h2 id="覓址"><a class="header-anchor" href="#覓址">§</a>覓址</h2><h2 id="搭建"><a class="header-anchor" href="#搭建">§</a>搭建</h2><h3 id="生成index"><a class="header-anchor" href="#生成index">§</a>生成index</h3><p><img src="https://ae01.alicdn.com/kf/H586ebdd66b9549c89f444ffe1ae05e9bh.png" alt="我的博客在「理論上」誕生的一瞬" title="我的博客在「理論上」誕生的一瞬"></p><p>在博客誕生以後，我陸續向兩位友人推薦了這一搭建博客的方法。一位使用Windows 10系統，一位使用Mac Pro。兩位分別遇到的問題及解決方法，我也一併陳諸本文。</p><p>話說用Mac的朋友歷經千辛萬苦，解決了本地軟件的問題，結果部署網站後，卻被告知缺少index頁。</p><p><img src="https://ae01.alicdn.com/kf/Hbf42d8af2829484d8db2947f4c5d684fq.jpg" alt title="說是缺少index頁"></p><h3 id="文本編碼"><a class="header-anchor" href="#文本編碼">§</a>文本編碼</h3><p><img src="https://ae01.alicdn.com/kf/H69a657e2b1194b2f83ea36a9d74b2113q.jpg" alt="居然一片亂碼" title="居然一片亂碼"></p><p>準確來講，這亦不是我的頭一篇博文。衹不過發佈於幾乎完全屬於自己的博客的，這是頭一篇。</p><h2 id="運營"><a class="header-anchor" href="#運營">§</a>運營</h2><h3 id="網站地圖"><a class="header-anchor" href="#網站地圖">§</a>網站地圖</h3><p>網站地圖可以方便搜索引擎派出的爬蟲收錄該網站的內容。<img src="https://ae01.alicdn.com/kf/H78cab042cb9e4fe2bef054c4142c94922.jpg" alt title="截至9月3日凌晨1:03（東八區），我的網站還未被谷歌收錄">向谷歌提交網站地圖遠未有百度複雜，只需要向谷歌告知網站地圖的網址即可<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。不過<a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">按照指引</a>嘗試訪問有關設置頁面後，被告知設置頁面已升級，教我去訪問新版。<img src="https://ae01.alicdn.com/kf/H24dabb3170b4457d903904120eba0a8bO.jpg" alt title="被告知此處屬於舊版頁面，不再提供有關功能">循其指引訪問新版。<img src="https://ae01.alicdn.com/kf/H3194794c12da4729835fd988bb6c417ei.jpg" alt title="新版對移動端滿友好的">建站未久，谷歌尚無站點的數據。打開側邊欄，點「站點地圖」。<img src="https://ae01.alicdn.com/kf/H493b932d45884132b57e68569c24e4e6V.jpg" alt="&amp;quot;這是一張站點地圖輸入框的截圖。&amp;quot;">在文本框輸入了存放網站地圖的子頁面。如果未更改默認設置，子頁面的地址就是<code>https://用戶名.github.io/sitemap/</code>。<img src="https://ae01.alicdn.com/kf/Hb6ae2d54f9434e53aafdaee5f2f441dbS.jpg" alt title="提示「成功」">如果網站地圖文件存在於/public文件夾，且網址無誤，提交後就會看見綠色的「成功」字樣。反之請檢查。</p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>viggoz. <a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">hexo(3)-生成sitemap站点地图</a>. 简书. 2016-06-08 [2019-09-02]. <a href="#fnref1" class="footnote-backref">↩</a></p></li></ol></section>]]></content>
+    <content type="html"><![CDATA[<h2 id="小引"><a class="header-anchor" href="#小引">§</a>小引</h2><p>想擁有一個徹底屬於自己的博客，已經很久了。前天，<a href="https://guanchishan.github.io/about">做了一場很長很長的夢後</a>，我開始著手建設之。</p><a id="more"></a><p>我猶能記取，最後一回正經的編程，已是初中的事情了。當時電腦課有教VB，我上課學滿認真，落堂自家還繼續琢磨；復在百度VB吧圍觀大神，斗膽提問並得到回答：可以說充分地體驗了編程的樂趣。期末的作品，亦蒙先生表揚，說我「既達成了目標，還有意識設計了圖形介面」云。然<ruby>而<rp>（</rp><rt>é</rt><rp>）</rp></ruby>，這份編程愛並未延續落去。特別進了高二，我<a href="https://guanchishan.github.io/lzh-hans/2015-07-25_%E6%B1%89%E4%BF%B3%E4%BD%9C%E5%93%81/#%E5%88%86%E7%A7%91%E8%AE%B0%E6%84%9F">躊躇滿志地選了文科</a>，也接受著能力偏差的心理暗示。故此從我指尖流出的代碼，邇來大抵是些臨時搜索、複製黏貼，以解決突發的疑難雜症者。「編程」之於我，遂與日而神聖，與日而不可及了。這份複雜的情感，更從編程開始，蔓延到許多的現代信息技術。譬如講開設博客，聽起來就很：</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stacken_0c137d_9086.jpg/800px-Stacken_0c137d_9086.jpg" alt="這是一張一名工程師對著幾臺服務器乾瞪眼的相片。我想用它體現出在我心目中開設博客有多麼複雜。" title="Janwikifoto, CC BY-SA 3.0, 2.5, 2.0, 1.0, GNU Free Documentation License 1.2"></p><p>所以爲了建出一個博客，像我這般苦手之輩，最需邁過的難關是——</p><h3 id="樹立信心"><a class="header-anchor" href="#樹立信心">§</a>樹立信心</h3><p>不過，信心亦不是隨便樹的。愛樹罔樹的信心，自己都不會去相信。失卻信心的根源，在於對自己能力的不信任；而之所以不信任自己的能力，不假思索或過份地誇大困難是一個原因。這份大困難需要消解。</p><h3 id="分解困難"><a class="header-anchor" href="#分解困難">§</a>分解困難</h3><p>就如把大象塞進冰箱一般，做一個博客，凡分三步：</p><ol><li>覓址</li><li>搭建</li><li>運營</li></ol><p>如是，問題似乎不再那麼毫無解決的頭緒，只需按著步驟一路闖下來即可。</p><p>其實我一直都很明白，面對一項繁雜到無從下手的工作時，可以將它嵌入一些框架——思維的框架，或者說是模板——從而把大問題分解成許多許多小問題。可道理都明白，平常間就是掏不出時間去試——哪怕在草稿紙上做做清夢呢。</p><p>所以知道要做什麼遠遠不夠。我們需要尋找最本源的動力，需要問問自己——</p><p>你想要什麼？</p><h3 id="明確目標"><a class="header-anchor" href="#明確目標">§</a>明確目標</h3><p>其實，探尋自己到底想要什麼，理應排在知道要做什麼之前。衹是我本就有建一個屬於自己的網站的夢，而並不是需要實現什麼目標纔想到要去藉助博客。所以我的思想脈絡，看起來有些顛倒。爲了敘述上的便宜，我也還是將「明確目標」排在「分解困難」之後。</p><p>而近來中文互聯網各大網絡平臺「炸號」情況嚴重，是我急欲劃塊網絡自留地的主要動因。</p><p>正好前天大夢方寤，我坐到桌前，便開始規劃私家博客的藍圖。</p><p><img src="https://ae01.alicdn.com/kf/Hc2f348abb87b41c491bc6a972f4c5062G.jpg" alt title="在草稿紙上列出了痛點"></p><h2 id="覓址"><a class="header-anchor" href="#覓址">§</a>覓址</h2><h2 id="搭建"><a class="header-anchor" href="#搭建">§</a>搭建</h2><h3 id="生成index"><a class="header-anchor" href="#生成index">§</a>生成index</h3><p><img src="https://ae01.alicdn.com/kf/H586ebdd66b9549c89f444ffe1ae05e9bh.png" alt="我的博客在「理論上」誕生的一瞬" title="我的博客在「理論上」誕生的一瞬"></p><p>在博客誕生以後，我陸續向兩位友人推薦了這一搭建博客的方法。一位使用Windows 10系統，一位使用Mac Pro。兩位分別遇到的問題及解決方法，我也一併陳諸本文。</p><p>話說用Mac的朋友歷經千辛萬苦，解決了本地軟件的問題，結果部署網站後，卻被告知缺少index頁。</p><p><img src="https://ae01.alicdn.com/kf/Hbf42d8af2829484d8db2947f4c5d684fq.jpg" alt title="說是缺少index頁"></p><h3 id="文本編碼"><a class="header-anchor" href="#文本編碼">§</a>文本編碼</h3><p><img src="https://ae01.alicdn.com/kf/H69a657e2b1194b2f83ea36a9d74b2113q.jpg" alt="居然一片亂碼" title="居然一片亂碼"></p><p>準確來講，這亦不是我的頭一篇博文。衹不過發佈於幾乎完全屬於自己的博客的，這是頭一篇。</p><h2 id="運營"><a class="header-anchor" href="#運營">§</a>運營</h2><h3 id="網站地圖"><a class="header-anchor" href="#網站地圖">§</a>網站地圖</h3><p>網站地圖可以方便搜索引擎派出的爬蟲收錄該網站的內容。<img src="https://ae01.alicdn.com/kf/H78cab042cb9e4fe2bef054c4142c94922.jpg" alt title="截至9月3日凌晨1:03（東八區），我的網站還未被谷歌收錄">向谷歌提交網站地圖遠未有百度複雜，只需要向谷歌告知網站地圖的網址即可<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。不過按<a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">viggoz君寫的指引</a>嘗試訪問有關設置頁面後，被告知設置頁面已升級，教我去訪問新版。<img src="https://ae01.alicdn.com/kf/H24dabb3170b4457d903904120eba0a8bO.jpg" alt title="被告知此處屬於舊版頁面，不再提供有關功能">循其指引訪問新版。<img src="https://ae01.alicdn.com/kf/H3194794c12da4729835fd988bb6c417ei.jpg" alt title="新版對移動端滿友好的">建站未久，谷歌尚無站點的數據。打開側邊欄，點「站點地圖」。<img src="https://ae01.alicdn.com/kf/H493b932d45884132b57e68569c24e4e6V.jpg" alt="&amp;quot;這是一張站點地圖輸入框的截圖。&amp;quot;">在文本框輸入了存放網站地圖的子頁面。如果未更改默認設置，子頁面的地址就是<code>https://用戶名.github.io/sitemap/</code>。<img src="https://ae01.alicdn.com/kf/Hb6ae2d54f9434e53aafdaee5f2f441dbS.jpg" alt title="提示「成功」">如果網站地圖文件存在於/public文件夾，且網址無誤，提交後就會看見綠色的「成功」字樣。反之請檢查。</p><hr class="footnotes-sep"><section class="footnotes"><ol class="footnotes-list"><li id="fn1" class="footnote-item"><p>viggoz. <a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">hexo(3)-生成sitemap站点地图</a>. 简书. 2016-06-08 [2019-09-02]. <a href="#fnref1" class="footnote-backref">↩</a></p></li></ol></section>]]></content>
     
     <summary type="html">
     
@@ -74,8 +74,8 @@
   
   <entry>
     <title>我到底是转厝了</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/22ece426.html"/>
+    <id>https://guanchishan.github.io/posts/22ece426.html</id>
     <published>2019-08-15T13:19:00.000Z</published>
     <updated>2019-08-14T16:00:00.000Z</updated>
     
@@ -105,36 +105,9 @@
   </entry>
   
   <entry>
-    <title>Buáng-màng săng-găng mò̤ dâi có̤</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
-    <published>2019-05-30T01:52:08.000Z</published>
-    <updated>2019-05-29T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=4878331&auto=0&height=66"></iframe><p>Gó̤-lòng gĕ̤ng mò̤ siăh-chióh</p><p>Duâi-buáng-iâ dók-iòng sék-diē cī sâ̤ nó̤h</p><p>(À iá, cī-â ciŏng có̤ à)</p><p>Siŭ-huá-iŏk ké̤ṳk nguāi kĕ̤ gáu diê-sē̤ là</p><p>Bè-lēng lì bè-lēng kó̤</p><p>Dō̤ mìng-chòng hùng-nó̤h dŭ mâ̤ có̤</p><p>DĀNG SĪ KÓ̤</p><hr><p><a href="https://guanchishan.github.io/cdo-hani/2019-05-30_%E5%8D%8A%E6%9A%9D%E4%B8%89%E6%9B%B4%E7%84%A1%E4%BA%8B%E5%81%9A">平話漢字</a> | <strong>Bàng-uâ Lò̤-mā-cê</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
-      
-    
-    </summary>
-    
-      <category term="詩歌" scheme="https://guanchishan.github.io/categories/%E8%A9%A9%E6%AD%8C/"/>
-    
-    
-      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
-    
-      <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>半暝三更無事做</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/b48a0b0d.html"/>
+    <id>https://guanchishan.github.io/posts/b48a0b0d.html</id>
     <published>2019-05-30T01:52:08.000Z</published>
     <updated>2019-05-29T16:00:00.000Z</updated>
     
@@ -159,9 +132,36 @@
   </entry>
   
   <entry>
+    <title>Buáng-màng săng-găng mò̤ dâi có̤</title>
+    <link href="https://guanchishan.github.io/posts/3ac34a6c.html"/>
+    <id>https://guanchishan.github.io/posts/3ac34a6c.html</id>
+    <published>2019-05-30T01:52:08.000Z</published>
+    <updated>2019-05-29T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=4878331&auto=0&height=66"></iframe><p>Gó̤-lòng gĕ̤ng mò̤ siăh-chióh</p><p>Duâi-buáng-iâ dók-iòng sék-diē cī sâ̤ nó̤h</p><p>(À iá, cī-â ciŏng có̤ à)</p><p>Siŭ-huá-iŏk ké̤ṳk nguāi kĕ̤ gáu diê-sē̤ là</p><p>Bè-lēng lì bè-lēng kó̤</p><p>Dō̤ mìng-chòng hùng-nó̤h dŭ mâ̤ có̤</p><p>DĀNG SĪ KÓ̤</p><hr><p><a href="https://guanchishan.github.io/cdo-hani/2019-05-30_%E5%8D%8A%E6%9A%9D%E4%B8%89%E6%9B%B4%E7%84%A1%E4%BA%8B%E5%81%9A">平話漢字</a> | <strong>Bàng-uâ Lò̤-mā-cê</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+      
+    
+    </summary>
+    
+      <category term="詩歌" scheme="https://guanchishan.github.io/categories/%E8%A9%A9%E6%AD%8C/"/>
+    
+    
+      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
+    
+      <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>逐集罔讲罔听</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/3ffece27.html"/>
+    <id>https://guanchishan.github.io/posts/3ffece27.html</id>
     <published>2019-03-28T18:33:49.000Z</published>
     <updated>2019-03-28T16:00:00.000Z</updated>
     
@@ -196,8 +196,8 @@
   
   <entry>
     <title>舞台上的舞台少女</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/12da1266.html"/>
+    <id>https://guanchishan.github.io/posts/12da1266.html</id>
     <published>2018-12-22T14:56:03.000Z</published>
     <updated>2018-12-21T16:00:00.000Z</updated>
     
@@ -226,8 +226,8 @@
   
   <entry>
     <title>以往不谏</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/b434e9df.html"/>
+    <id>https://guanchishan.github.io/posts/b434e9df.html</id>
     <published>2018-12-12T20:11:40.000Z</published>
     <updated>2018-12-12T16:00:00.000Z</updated>
     
@@ -252,8 +252,8 @@
   
   <entry>
     <title>苇杭老师见面会repo（仮題）</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/11ab6384.html"/>
+    <id>https://guanchishan.github.io/posts/11ab6384.html</id>
     <published>2018-07-21T07:49:00.000Z</published>
     <updated>2018-07-20T16:00:00.000Z</updated>
     
@@ -277,8 +277,8 @@
   
   <entry>
     <title>旅の俳句</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/2c83021.html"/>
+    <id>https://guanchishan.github.io/posts/2c83021.html</id>
     <published>2018-06-03T16:00:00.000Z</published>
     <updated>2018-06-04T13:52:22.000Z</updated>
     
@@ -312,38 +312,9 @@
   </entry>
   
   <entry>
-    <title>十六暝晡煙共花</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
-    <published>2018-05-22T16:00:00.000Z</published>
-    <updated>2018-12-13T02:23:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>正月十六暝晡，我共行李搬轉宿舍。宿舍固無別儂，我整理完，自家出門，去食日本菜。</p><p>經過旁邊其村，巷巷盡窄。厝裏捅出棍棍，野像會敲響對面檻門囝其玻璃。遐辰候天暗無偌𣆯，前兜俤蜀隻丈夫囝蒂甩了摔炮，嘻嘻笑䟛去。只爿伲囝哥掏𡅏㲺㲺花，邊兜儂圍蜀環相。盡価厝門兜放了盆盆，盆盆貯了土，插了有碗許蠻大其香燒，煙噗囫圇巷巷都是。只大其香，以前㑚敆廟門兜看見過。</p><a id="more"></a><p>行去仂𣆯，安靜仂囝，含不蜀時聽見倏其蜀聲。頭𩓥起去罔覷，是煙花趁這窄窄密密其柴欄厝臺中飛上天空，綻放開去。蜀菩蜀菩，照𡅏地兜暗囇光囇。</p><p>蜀墿其煙，滿天其花，我印象臺中做細乍看見過。</p><p>18年5月23號暝晡寫，今旦改了仂囝</p><hr><p><strong>平話漢字</strong> | <a href="https://guanchishan.github.io/cdo-latn/2018-05-23_%E5%8D%81%E5%85%AD%E6%9A%9D%E6%99%A1%E7%85%99%E5%85%B1%E8%8A%B1">Bàng-uâ Lò̤-mā-cê</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;正月十六暝晡，我共行李搬轉宿舍。宿舍固無別儂，我整理完，自家出門，去食日本菜。&lt;/p&gt;
-&lt;p&gt;經過旁邊其村，巷巷盡窄。厝裏捅出棍棍，野像會敲響對面檻門囝其玻璃。遐辰候天暗無偌𣆯，前兜俤蜀隻丈夫囝蒂甩了摔炮，嘻嘻笑䟛去。只爿伲囝哥掏𡅏㲺㲺花，邊兜儂圍蜀環相。盡価厝門兜放了盆盆，盆盆貯了土，插了有碗許蠻大其香燒，煙噗囫圇巷巷都是。只大其香，以前㑚敆廟門兜看見過。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="紀行" scheme="https://guanchishan.github.io/categories/%E7%B4%80%E8%A1%8C/"/>
-    
-    
-      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
-    
-      <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
-    
-      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
-    
-      <category term="福州" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%B7%9E/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Sĕk-lĕ̤k màng-buŏ ĭng gâe̤ng huă</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/65303a4d.html"/>
+    <id>https://guanchishan.github.io/posts/65303a4d.html</id>
     <published>2018-05-22T16:00:00.000Z</published>
     <updated>2018-12-13T02:23:00.000Z</updated>
     
@@ -370,9 +341,38 @@
   </entry>
   
   <entry>
+    <title>十六暝晡煙共花</title>
+    <link href="https://guanchishan.github.io/posts/dae42c89.html"/>
+    <id>https://guanchishan.github.io/posts/dae42c89.html</id>
+    <published>2018-05-22T16:00:00.000Z</published>
+    <updated>2018-12-13T02:23:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>正月十六暝晡，我共行李搬轉宿舍。宿舍固無別儂，我整理完，自家出門，去食日本菜。</p><p>經過旁邊其村，巷巷盡窄。厝裏捅出棍棍，野像會敲響對面檻門囝其玻璃。遐辰候天暗無偌𣆯，前兜俤蜀隻丈夫囝蒂甩了摔炮，嘻嘻笑䟛去。只爿伲囝哥掏𡅏㲺㲺花，邊兜儂圍蜀環相。盡価厝門兜放了盆盆，盆盆貯了土，插了有碗許蠻大其香燒，煙噗囫圇巷巷都是。只大其香，以前㑚敆廟門兜看見過。</p><a id="more"></a><p>行去仂𣆯，安靜仂囝，含不蜀時聽見倏其蜀聲。頭𩓥起去罔覷，是煙花趁這窄窄密密其柴欄厝臺中飛上天空，綻放開去。蜀菩蜀菩，照𡅏地兜暗囇光囇。</p><p>蜀墿其煙，滿天其花，我印象臺中做細乍看見過。</p><p>18年5月23號暝晡寫，今旦改了仂囝</p><hr><p><strong>平話漢字</strong> | <a href="https://guanchishan.github.io/cdo-latn/2018-05-23_%E5%8D%81%E5%85%AD%E6%9A%9D%E6%99%A1%E7%85%99%E5%85%B1%E8%8A%B1">Bàng-uâ Lò̤-mā-cê</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;正月十六暝晡，我共行李搬轉宿舍。宿舍固無別儂，我整理完，自家出門，去食日本菜。&lt;/p&gt;
+&lt;p&gt;經過旁邊其村，巷巷盡窄。厝裏捅出棍棍，野像會敲響對面檻門囝其玻璃。遐辰候天暗無偌𣆯，前兜俤蜀隻丈夫囝蒂甩了摔炮，嘻嘻笑䟛去。只爿伲囝哥掏𡅏㲺㲺花，邊兜儂圍蜀環相。盡価厝門兜放了盆盆，盆盆貯了土，插了有碗許蠻大其香燒，煙噗囫圇巷巷都是。只大其香，以前㑚敆廟門兜看見過。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="紀行" scheme="https://guanchishan.github.io/categories/%E7%B4%80%E8%A1%8C/"/>
+    
+    
+      <category term="居處" scheme="https://guanchishan.github.io/tags/%E5%B1%85%E8%99%95/"/>
+    
+      <category term="cdo" scheme="https://guanchishan.github.io/tags/cdo/"/>
+    
+      <category term="福建" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%BB%BA/"/>
+    
+      <category term="福州" scheme="https://guanchishan.github.io/tags/%E7%A6%8F%E5%B7%9E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>误乘反省</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/fc34fa8a.html"/>
+    <id>https://guanchishan.github.io/posts/fc34fa8a.html</id>
     <published>2018-05-18T13:50:22.000Z</published>
     <updated>2019-08-27T00:07:00.000Z</updated>
     
@@ -395,8 +395,8 @@
   
   <entry>
     <title>𣍐愛去睏</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/83a73995.html"/>
+    <id>https://guanchishan.github.io/posts/83a73995.html</id>
     <published>2018-03-29T16:00:00.000Z</published>
     <updated>2019-09-01T16:00:00.000Z</updated>
     
@@ -423,8 +423,8 @@
   
   <entry>
     <title>Mâ̤ ó̤i kó̤-káung</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/796e7f93.html"/>
+    <id>https://guanchishan.github.io/posts/796e7f93.html</id>
     <published>2018-03-29T16:00:00.000Z</published>
     <updated>2019-09-01T16:00:00.000Z</updated>
     
@@ -450,8 +450,8 @@
   
   <entry>
     <title>记东方文学课两件事</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/68cd1ddc.html"/>
+    <id>https://guanchishan.github.io/posts/68cd1ddc.html</id>
     <published>2018-03-27T16:59:58.000Z</published>
     <updated>2018-03-27T16:00:00.000Z</updated>
     
@@ -475,8 +475,8 @@
   
   <entry>
     <title>儷仈講儥仈做</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/295a2850.html"/>
+    <id>https://guanchishan.github.io/posts/295a2850.html</id>
     <published>2018-03-27T16:23:36.000Z</published>
     <updated>2018-03-27T16:00:00.000Z</updated>
     
@@ -501,8 +501,8 @@
   
   <entry>
     <title>春天停在枝头上</title>
-    <link href="https://guanchishan.github.io/posts/9b285507/"/>
-    <id>https://guanchishan.github.io/posts/9b285507/</id>
+    <link href="https://guanchishan.github.io/posts/9b285507.html"/>
+    <id>https://guanchishan.github.io/posts/9b285507.html</id>
     <published>2018-03-01T00:00:00.000Z</published>
     <updated>2018-03-01T00:00:00.000Z</updated>
     
@@ -535,8 +535,8 @@
   
   <entry>
     <title>起五更早掏書看</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/d251f922.html"/>
+    <id>https://guanchishan.github.io/posts/d251f922.html</id>
     <published>2017-12-10T16:00:00.000Z</published>
     <updated>2019-09-01T16:00:00.000Z</updated>
     
@@ -563,8 +563,8 @@
   
   <entry>
     <title>Găk Chió Siĕh-buông Có̤i hiŏng</title>
-    <link href="https://guanchishan.github.io/posts/undefined/"/>
-    <id>https://guanchishan.github.io/posts/undefined/</id>
+    <link href="https://guanchishan.github.io/posts/f87f2fa9.html"/>
+    <id>https://guanchishan.github.io/posts/f87f2fa9.html</id>
     <published>2017-12-09T16:00:00.000Z</published>
     <updated>2019-09-01T16:00:00.000Z</updated>
     
