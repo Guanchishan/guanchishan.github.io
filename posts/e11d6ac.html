@@ -224,6 +224,16 @@
         </li>
       
         
+        <li class="menu-item menu-item-notes">
+          <a href="/categories/箋註/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-question-circle"></i> <br>
+            
+            箋註
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-movies">
           <a href="/movies" rel="section">
             
@@ -519,8 +529,8 @@
 <p>博客框架與主題安裝好之後，大部分操作便可以循著各自的官方文檔進行了。不過官方文檔亦有未逮處，而本文會就此拾遺。</p>
 <h3 id="文章永久鏈接"><a class="header-anchor" href="#文章永久鏈接">§</a>文章永久鏈接</h3>
 <p>在站點配置文件填寫<code>permalink</code>格式時，可以考慮在最後添上<code>.html</code>，產生一種靜態網頁的感覺，更有助於搜索引擎優化（SEO）。<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
-<p>話說安裝好插件後，我嘗試執行<code>hexo generate</code>，以生成靜態網頁文件，順便看看永久域名的生成效果如何。結果飛速完成，其迅捷令人不適復又不安。檢查<code>/public</code>：
-<img src="https://ae01.alicdn.com/kf/H9b865c7507d340068e4ffbd3740a426eK.png" alt="這時本地/post目錄下的截圖。祇生成了6個頁面，頁面的具體情況下文陳述。">
+<p>話說安裝好插件後，我嘗試執行<code>hexo generate</code>，以生成靜態網頁文件，順便看看永久域名的生成效果如何。結果飛速完成，其迅捷令人不適復又不安。檢查<code>/public</code>：</p>
+<p><img src="https://ae01.alicdn.com/kf/H9b865c7507d340068e4ffbd3740a426eK.png" alt="這時本地/post目錄下的截圖。祇生成了6個頁面，頁面的具體情況下文陳述。">
 發現祇有幾篇博文生成了隨機數鏈接。而當時的<a href="https://guanchishan.github.io/posts/9420cc99.html">置頂舊文</a>被生成到了<code>undefined</code>。其他文章未被生成。主頁雖然生成，但所有博文鏈接都指向<code>undefined</code>，也就是那篇置頂文。簡直是一場災難。</p>
 <p>我一開始以爲插件對存量較大的舊文束手無策，祇能從「新」開始；故沒嘗試再生成一邊靜態網頁，而是觀察其格式，生成了一批8位十六進制隨機數列，打算手動黏貼入每篇文章的Front-matter內。貼了幾篇煩了，隨手<code>hexo g</code>了下，不意全部生成完畢。考慮到未來寫草稿要鏈接的時候，數列也有的用，便留下來了。</p>
 <p>生成數列的辦法有很多，如在Excel輸入函數：</p>
@@ -546,7 +556,7 @@
 <h3 id="關鍵詞"><a class="header-anchor" href="#關鍵詞">§</a>關鍵詞</h3>
 <p>NexT默認將標籤（tags）視爲關鍵詞<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>。這時若爲做全搜索關鍵詞而大肆填塞標籤，網頁的視覺效果就會不太好。<a href="https://blog.csdn.net/vickyway/article/details/49762439" target="_blank" rel="noopener">在主題目錄下修改關鍵詞的佈局代碼</a>，即可使全站文章的關鍵詞生效。每篇文章的關鍵詞寫在Front-matter內，格式：<code>keywords: 天地,玄,黃宇宙,洪荒</code>。<code>keywords</code>與頭一個關鍵詞間要留下一個半形空格，關鍵詞之間復以半形逗號相隔。<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup></p>
 <h3 id="壓縮博客"><a class="header-anchor" href="#壓縮博客">§</a>壓縮博客</h3>
-<p>NexT主題<a href="https://theme-next.iissnan.com/faqs.html" target="_blank" rel="noopener">未自帶壓縮博客的功能</a>，有<a href="https://github.com/chenzhutian/hexo-all-minifier/" target="_blank" rel="noopener">現成的插件</a>可以壓縮之。</p>
+<p>NexT主題<a href="https://theme-next.iissnan.com/faqs.html" target="_blank" rel="noopener">未自帶壓縮博客的功能</a>，有<a href="https://github.com/chenzhutian/hexo-all-minifier/" target="_blank" rel="noopener">現成的「hexo-all-minifer」插件</a>可以壓縮之。</p>
 <p>插件裝載得越多，調用行爲越頻繁，加載網站也就益緩。<a href="https://guanchishan.github.io/posts/f9f111ed.html#%E4%BC%A0">設計下棋軟件的陳志行先生</a>，過去用的電腦運行太慢，下一步棋的功夫，甚至夠他打一套太極拳了<sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>。而我好幾次訪問自己的博客，祇見眼前一片雪白。我想著加載有時，便開始熱唱TV size的《<a href="https://www.wikidata.org/wiki/Q65278185" target="_blank" rel="noopener">紅蓮華</a>》。到尾囫圇條歌都唱完去，一字都未加載出；而下拉刷新後，又唱了半條纔加載完成：壓縮博客的需求很迫切了。安裝好這個壓縮插件後，部署網頁，再訪問，確實迅速不少。有了博客剛建好那一刻感受到的Hexo設計者所言之「快速、簡單」<sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup>。</p>
 <h3 id="本地markdown編輯器"><a class="header-anchor" href="#本地markdown編輯器">§</a>本地Markdown編輯器</h3>
 <p>老是用記事本寫Markdown非長久之計。經比較，我在視窗系統使用Typora，一款所見即所得的編輯器。</p>
@@ -556,7 +566,7 @@
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>姓王的wy. <a href="https://blog.csdn.net/yanzi1225627/article/details/77761488" target="_blank" rel="noopener">hexo链接持久化终极解决之道</a>. CSDN. 2017-09-01 [2019-09-07]. <a href="#fnref1" class="footnote-backref">↩</a></p>
+<li id="fn1" class="footnote-item"><p>yanzi122567. <a href="https://blog.csdn.net/yanzi1225627/article/details/77761488" target="_blank" rel="noopener">hexo链接持久化终极解决之道</a>. CSDN. 2017-09-01 [2019-09-07]. <a href="#fnref1" class="footnote-backref">↩</a></p>
 </li>
 <li id="fn2" class="footnote-item"><p>姓王的wy. <a href="https://zhidao.baidu.com/question/460961824957241005.html" target="_blank" rel="noopener">excel生成8位16进制随机码</a>. 百度知道. 2018-07-07 [2019-09-06]. <a href="#fnref2" class="footnote-backref">↩</a></p>
 </li>
@@ -700,7 +710,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">113</span>
+                  <span class="site-state-item-count">111</span>
                   <span class="site-state-item-name">文章</span>
                 </a>
               </div>
@@ -711,7 +721,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">19</span>
+                  <span class="site-state-item-count">17</span>
                   <span class="site-state-item-name">分類</span>
                 </a>
               </div>
