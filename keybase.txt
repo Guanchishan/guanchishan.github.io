@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/davidzdh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://guanchishan.github.io
+  * I am davidzdh (https://keybase.io/davidzdh) on keybase.
+  * I have a public key ASCGBKfdjx3oOp1SIjJPomHS_FT21pgoMCjzkPXuIGCROgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204686d1ec674ae7bdb67d859b27d687985fe65d88bd0c00bf416ecc4602b6c4ef0a",
+      "host": "keybase.io",
+      "kid": "01208604a7dd8f1de83a9d5222324fa261d2fc54f6d698283028f390f5ee2060913a0a",
+      "uid": "88b8848a1aa56ff3b2ce853e89f48b19",
+      "username": "davidzdh"
+    },
+    "merkle_root": {
+      "ctime": 1603653301,
+      "hash": "4e22f05336caad263f3e224893eead5a910d0a6a1106c6afe385ab8dd19df0c3ab957927333428e14843634079d97ee9905dbaed66d511305b2b6817f1e7d681",
+      "hash_meta": "b9326a19445b4f6445042f65d57bc114ec43cf06e60526a628a67840417c1a54",
+      "seqno": 17925295
+    },
+    "service": {
+      "entropy": "xcCF4ZnX8lzpWsI5R5YAvrhn",
+      "hostname": "guanchishan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1603653375,
+  "expire_in": 504576000,
+  "prev": "d44276195223afa221c1a8cebc44d0d41bd850414adc8d1a1fc573a96a65375a",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghgSn3Y8d6DqdUiIyT6Jh0vxU9taYKDAo85D17iBgkToKp3BheWxvYWTESpcCJMQg1EJ2GVIjr6IhwajOvETQ1BvYUEFK3I0aH8VzqWplN1rEIPnm4lDbm/ZU9NSMfGHIsVsrHifVKkAUhYUIOKrTP+WiAgHCo3NpZ8RAvdSQZP7u5PjSYBECssAsL5hEYnccgvFnYypYmwN6lje5M2yl0yYCqKDnt/8J+8BMo67mkdRbUJbjHx91CFiVA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAziaZkHWoCu/b1O2Uans4m4+H1ockwWCNWk6gm0mSh3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidzdh
+
+==================================================================
